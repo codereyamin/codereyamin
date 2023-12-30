@@ -1,5 +1,6 @@
+<img align="center" src="https://github.com/codereyamin/codereyamin/blob/main/flutter-app-developer.jpg" alt="codereyamin" height="300" width="700" />
 <h1 align="center">Hi 👋, I'm Tuhin Ikbal Eyamin</h1>
-<h3 align="center">Frontend Flutter Developer Form Bangaldesh</h3>
+<h3 align="center">Flutter Developer Form Bangaldesh</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
