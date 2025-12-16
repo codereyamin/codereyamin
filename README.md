@@ -12,9 +12,6 @@ I am a Flutter developer specializing in building reliable and scalable mobile a
 ![](https://nirzak-streak-stats.vercel.app/?user=codereyamin&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=codereyamin&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=codereyamin&theme=prussian&no-frame=false&no-bg=false&margin-w=4)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=codereyamin&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
